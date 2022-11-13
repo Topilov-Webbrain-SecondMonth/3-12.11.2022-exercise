@@ -15,7 +15,7 @@ null == undefined
 + - * / % ** ++ -- () +=
 
 |- Comparisons
-< > == === <= >= !
+< > == === <= >=
 "A">"a"
 "something"==="something"
 "something1">"something2"
